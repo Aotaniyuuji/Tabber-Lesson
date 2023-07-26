@@ -17,6 +17,15 @@ h1 {
   margin: 0 auto;
 }
 
+#tab-menu {
+  display: flex;
+}
+
+#tab-menu li {
+  list-style-type: none;
+  width: 25%;
+}
+
 #tab-menu li a {
   color: #fff;
   text-decoration: none;
